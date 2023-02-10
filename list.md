@@ -91,7 +91,6 @@ What do you ask to find the door leading to freedom?
 - How many 9 are there in between 1 and 100?
 - Is 103 a prime number?
 - It's currently 2022-12-30. how many days ago was 2022-11-05? please do the math.
-- There are 25 days between November 5, 2022 and December 30, 2022.
 - Tell me the answer to 2+4*3-7=? What if I re-order it? So 4*3+2-7?
 - Is 289185 a prime number? why not?
 - In 2015 my mother was double my age plus ten. In 2021 I was 26, how old was she in 2017?
