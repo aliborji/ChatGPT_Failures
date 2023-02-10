@@ -18,7 +18,6 @@
 - The trophy didn’t fit in the suitcase because it was too small. What was too small?
 - My son said since the laptop didn't fit in the black briefcase, there was no way it will fit in the brown briefcase. Which briefcase is smaller then?
 - I'm in my car, in my garage. All of a sudden, I slam my foot on the brakes. What happens?
-- I'm frying an egg, but when I flip the egg I use too much force. What happens? What part of the egg is breaking?
 - I'm frying an egg, but when I flip the egg I use too much force. What happens?
 - Suppose I see my friend on the other side of a lake from me, standing at the water's edge, and I see her reflection in the water. Will her reflection look inverted left-right or up-down?
 - If I tie a string to a toy truck, and push the string, what happens to the truck?
