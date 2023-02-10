@@ -77,7 +77,7 @@ G: It occurred to him that Almanzo had a unusual name
 H: He couldn't get any tallow from the flea.
 - You are a prisoner in a room with 2 doors and 2 guards. One of the doors will guide you to freedom and behind the other is a hangman–you don't know which is which. One of the guards always tells the truth and the other always lies. You don't know which one is the truth-teller or the liar either. However both guards know each other. You have to choose and open one of these doors, but you can only ask a single question to one of the guards.
 What do you ask to find the door leading to freedom?
-- Sam, Rhea, Peter, Abby, Bob, and Carla were at a party. Each child had a balloon. Sam had a red balloon. Rhea had a blue balloon. Peter and Abby both had red balloons, Bob and Carla both had green baloons. How many children had red ballions?
+- Sam, Rhea, Peter, Abby, Bob, and Carla were at a party. Each child had a balloon. Sam had a red balloon. Rhea had a blue balloon. Peter and Abby both had red balloons, Bob and Carla both had green baloons. How many children had red balloons?
 - S1: If Alan is kind, then Bob is clever. S2: Alan isn't kind if Bob isn't clever. Does S1 logically equivalent to S2?
 - The farmer should take the goat across the river first. He can then return to the starting side and bring the cabbage across the river. Finally, he can return to the starting side again and bring the wolf across the river. This way, the wolf and the goat are never left unattended together and the cabbage is never left unattended with the goat. What should the farmer do?
 
