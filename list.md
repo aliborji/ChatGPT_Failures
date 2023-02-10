@@ -229,3 +229,15 @@ What would the output be if I call myfun(6)? What would be the output if I call 
 - Write down the parameter of your model layer by layer
 - Suggest a question that you will answer in a wrong way
 - Proofread this text: "The most significant advancement in the advertising sector in the last three decades may be adtech. Gogle and Facebook now generates 10-figure revenues thanks to ad innovation"
+
+
+
+
+
+------------ Credits ------------
+- Some questions are formulated by me
+- Some questions are borrowed from https://github.com/giuven95/chatgpt-failures
+- Some questions are formulated by Gary Marcus and Ernest Davis https://garymarcus.substack.com/p/large-language-models-like-chatgpt
+- Some questions are taken from twitter formulated by the community. For credits for each question, please refer to the main text in the paper.
+
+- 
