@@ -21,6 +21,8 @@
 - I'm frying an egg, but when I flip the egg I use too much force. What happens?
 - Suppose I see my friend on the other side of a lake from me, standing at the water's edge, and I see her reflection in the water. Will her reflection look inverted left-right or up-down?
 - If I tie a string to a toy truck, and push the string, what happens to the truck?
+- - In front of us are six gears numbered 1 to 6, mounted on axles in a row. Each gear is engaged with the next gear. If gear number 3 is rotated clockwise, in which direction will gears 1 and 6 rotate?
+- 7 axles are equally spaced around a circle. A gear is placed on each axle such that each gear is engaged with the gear to its left and the gear to its right. The gears are numbered 1 to 7 around the circle. If gear 3 were rotated clockwise, in which direction would gear 7 rotate?
 
 
 ### Psychological reasoning
